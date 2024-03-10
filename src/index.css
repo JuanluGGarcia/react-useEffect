@@ -1,3 +1,5 @@
 body {
 	font-family: sans-serif;
+	 /* Lo siguiente se ha puesto para el ejemplo del scroll */
+	 min-height: 500vh;
 }
